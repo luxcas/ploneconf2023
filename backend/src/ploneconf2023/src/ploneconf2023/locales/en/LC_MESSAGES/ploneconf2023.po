@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-25 17:12+0000\n"
+"POT-Creation-Date: 2023-10-03 09:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,3 +13,27 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: DOMAIN\n"
+
+#: ploneconf2023/profiles.zcml:22
+msgid "Initial content for our website."
+msgstr ""
+
+#: ploneconf2023/profiles.zcml:22
+msgid "Plone Conference Training: Initial content"
+msgstr ""
+
+#: ploneconf2023/profiles.zcml:13
+msgid "Plone Conference Training: Install"
+msgstr ""
+
+#: ploneconf2023/profiles.zcml:30
+msgid "Plone Conference Training: Uninstall"
+msgstr ""
+
+#: ploneconf2023/profiles.zcml:13
+msgid "Policy package to install our site"
+msgstr ""
+
+#: ploneconf2023/profiles.zcml:30
+msgid "Uninstall Plone Conference Training setup."
+msgstr ""
